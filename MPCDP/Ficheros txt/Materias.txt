@@ -1,0 +1,24 @@
+0001-Matemáticas Aplicadas a las Ciencias Sociales-MCS
+0002-Historia del Arte-HAR
+0003-Ciencias del Mundo Contemporáneo-CMC
+0004-Química-QCA
+0005-Física-FCA
+0006-Biología-BLG
+0007-Lengua Castellana y Literatura-LCL
+0008-Historia de España-HES
+0009-Historia de la Filosofía-HFL
+0010-Francés-FRN
+0011-Inglés-ING
+0012-Dibujo Técnico-DTC
+0013-Griego-GRG
+0014-Geografía-GEO
+0015-Matemáticas II-MAT
+0016-Economía-ECN
+0017-Latín-LAT
+0018-Artes escénicas-ARS
+0019-Cultura audiovisual-CAV
+0020-Psicología-PSI
+0021-Ciencias Sociales-CSC
+0022-Educación Física-EDF
+0023-Fisica y Química-FSQ
+0024-Tecnología-TEC
